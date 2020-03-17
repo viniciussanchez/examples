@@ -8,3 +8,4 @@
 * [**Proteja suas senhas com segurança utilizando o BCrypt no Delphi**](https://medium.com/@viniciuss.sanchez/proteja-suas-senhas-com-seguran%C3%A7a-utilizando-o-bcrypt-9d8379860f06)
 * [**Record Macro com Delphi**](https://medium.com/@viniciuss.sanchez/record-macro-com-delphi-2c55e4781e00)
 * [**MultiPaste no Delphi**](https://medium.com/@viniciuss.sanchez/multipaste-no-delphi-dcf2b50c2da7)
+* [**Evitando ambiguidade de valores enumerados com Delphi**](https://medium.com/@viniciuss.sanchez/evitando-ambiguidade-de-valores-enumerados-com-delphi-808ffb507a9d)
