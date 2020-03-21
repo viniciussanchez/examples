@@ -9,3 +9,4 @@
 * [**Record Macro com Delphi**](https://medium.com/@viniciuss.sanchez/record-macro-com-delphi-2c55e4781e00)
 * [**MultiPaste no Delphi**](https://medium.com/@viniciuss.sanchez/multipaste-no-delphi-dcf2b50c2da7)
 * [**Evitando ambiguidade de valores enumerados com Delphi**](https://medium.com/@viniciuss.sanchez/evitando-ambiguidade-de-valores-enumerados-com-delphi-808ffb507a9d)
+* [**Evolua seu código com a utilização de tipos enumerados — Delphi**](https://medium.com/@viniciuss.sanchez/evolua-seu-c%C3%B3digo-com-a-utiliza%C3%A7%C3%A3o-de-tipos-enumerados-delphi-6f8b9b669094)
