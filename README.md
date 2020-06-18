@@ -11,3 +11,14 @@
 * [**Evitando ambiguidade de valores enumerados com Delphi**](https://medium.com/@viniciuss.sanchez/evitando-ambiguidade-de-valores-enumerados-com-delphi-808ffb507a9d)
 * [**Evolua seu código com a utilização de tipos enumerados — Delphi**](https://medium.com/@viniciuss.sanchez/evolua-seu-c%C3%B3digo-com-a-utiliza%C3%A7%C3%A3o-de-tipos-enumerados-delphi-6f8b9b669094)
 * [**Múltiplas Instâncias do Delphi**](https://medium.com/@viniciuss.sanchez/m%C3%BAltiplas-inst%C3%A2ncias-do-delphi-2d84f22f16c9)
+
+# Vídeos
+* [**JSON Attributes com Delphi**](https://youtu.be/euL6CxPKt10)
+* [**Class e Record Helpers com Delphi**](https://youtu.be/NM_prnYdDH4)
+* [**Múltiplas Instâncias do Delphi**](https://youtu.be/NYll2yBvrnw)
+* [**Tipos Enumerados com Delphi**](https://youtu.be/0N4CnFAj4AY)
+* [**Documente sua aplicação Delphi com XML Documentation**](https://youtu.be/bQ5dSiLfwZI)
+* [**Record Macro - Delphi**](https://youtu.be/6vnpAvYZUAE)
+* [**MultiPaste com Delphi**](https://youtu.be/Xb9NJl8WhPk)
+* [**Introdução ao Boss**](https://youtu.be/bchUVPFRUj8)
+* [**Horse - Criando uma API escalável e minimalista (CodeRage Brasil 2020)**](https://youtu.be/qIjK-xV3OTE)
