@@ -22,3 +22,4 @@
 * [**MultiPaste com Delphi**](https://youtu.be/Xb9NJl8WhPk)
 * [**Introdução ao Boss**](https://youtu.be/bchUVPFRUj8)
 * [**Horse - Criando uma API escalável e minimalista (CodeRage Brasil 2020)**](https://youtu.be/qIjK-xV3OTE)
+* [**Testes Unitários com Delphi utilizando o DUnit**](https://youtu.be/JOpMlhtJ9AM)
