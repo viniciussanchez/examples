@@ -12,6 +12,7 @@
 * [**Evolua seu código com a utilização de tipos enumerados — Delphi**](https://medium.com/@viniciuss.sanchez/evolua-seu-c%C3%B3digo-com-a-utiliza%C3%A7%C3%A3o-de-tipos-enumerados-delphi-6f8b9b669094)
 * [**Múltiplas Instâncias do Delphi**](https://medium.com/@viniciuss.sanchez/m%C3%BAltiplas-inst%C3%A2ncias-do-delphi-2d84f22f16c9)
 * [**Universidade Delphi — Um mundo para quem quer aprender**](https://medium.com/@viniciuss.sanchez/universidade-delphi-um-mundo-para-quem-quer-aprender-c3dc8c93d8)
+* [**Programa de Certificações Delphi**](https://medium.com/@viniciuss.sanchez/em-dias-de-quarentena-grandes-programadores-buscam-cada-vez-mais-se-aperfei%C3%A7oar-melhorando-suas-2d9230f15431)
 
 # Vídeos
 * [**JSON Attributes com Delphi**](https://youtu.be/euL6CxPKt10)
@@ -26,3 +27,5 @@
 * [**Testes Unitários com Delphi utilizando o DUnit**](https://youtu.be/JOpMlhtJ9AM)
 * [**Criando uma API REST com Delphi - Introdução**](https://youtu.be/M-4gwrCI21w)
 * [**Criando uma API REST com Delphi - Horse Framework**](https://youtu.be/vDBOj27spiY)
+* [**Criando uma API REST com Delphi - Trafegando JSON**](https://youtu.be/l5JpHzxGGE8)
+* [**Criando uma API REST com Delphi - Basic Authentication**](https://youtu.be/sP_AdgW4rDU)
