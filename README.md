@@ -29,3 +29,4 @@
 * [**Criando uma API REST com Delphi - Horse Framework**](https://youtu.be/vDBOj27spiY)
 * [**Criando uma API REST com Delphi - Trafegando JSON**](https://youtu.be/l5JpHzxGGE8)
 * [**Criando uma API REST com Delphi - Basic Authentication**](https://youtu.be/sP_AdgW4rDU)
+* [**Criando uma API REST com Delphi - Compression**](https://youtu.be/0Gu22iMtvEs)
