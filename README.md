@@ -30,3 +30,4 @@
 * [**Criando uma API REST com Delphi - Trafegando JSON**](https://youtu.be/l5JpHzxGGE8)
 * [**Criando uma API REST com Delphi - Basic Authentication**](https://youtu.be/sP_AdgW4rDU)
 * [**Criando uma API REST com Delphi - Compression**](https://youtu.be/0Gu22iMtvEs)
+* [**Criando uma API REST com Delphi - Controlando Exceções**](https://youtu.be/1-8uDZw8IUM)
