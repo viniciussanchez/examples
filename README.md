@@ -13,6 +13,7 @@
 * [**Múltiplas Instâncias do Delphi**](https://medium.com/@viniciuss.sanchez/m%C3%BAltiplas-inst%C3%A2ncias-do-delphi-2d84f22f16c9)
 * [**Universidade Delphi — Um mundo para quem quer aprender**](https://medium.com/@viniciuss.sanchez/universidade-delphi-um-mundo-para-quem-quer-aprender-c3dc8c93d8)
 * [**Programa de Certificações Delphi**](https://medium.com/@viniciuss.sanchez/em-dias-de-quarentena-grandes-programadores-buscam-cada-vez-mais-se-aperfei%C3%A7oar-melhorando-suas-2d9230f15431)
+* [**GUID no Delphi**](https://medium.com/@viniciuss.sanchez/guid-no-delphi-cea8dda6427f)
 
 # Vídeos
 * [**JSON Attributes com Delphi**](https://youtu.be/euL6CxPKt10)
