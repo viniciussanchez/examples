@@ -1,0 +1,38 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2020-08-20T19:05:32.71465-03:00",
+	"installedModules": {
+		"github.com/bittencourtthulio/horse-paginate": {
+			"name": "horse-paginate",
+			"version": "master",
+			"hash": "463829140ba8d66d289bbe4ea80946c7",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/horse": {
+			"name": "horse",
+			"version": "v2.0-alpha.1",
+			"hash": "19665e8b98f5aa9cc5b56d0629f4b975",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/jhonson": {
+			"name": "jhonson",
+			"version": "1.0.5",
+			"hash": "34d01183ef1b6af802c7e132adedeae5",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/viniciussanchez/dataset-serialize": {
+			"name": "dataset-serialize",
+			"version": "v2.1.6",
+			"hash": "0c9bfe2d09c47c5d024995181983e2f2",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}
