@@ -34,3 +34,4 @@
 * [**Criando uma API REST com Delphi - Controlando Exceções**](https://youtu.be/1-8uDZw8IUM)
 * [**Criando uma API REST com Delphi - Trafegando Stream**](https://youtu.be/7d6yErr9ewI)
 * [**Criando uma API REST com Delphi - Gerando Log**](https://youtu.be/o3jrkvSm9os)
+* [**Criando uma API REST com Delphi - Middleware Paginate**](https://youtu.be/VMMQhoysIgI)
