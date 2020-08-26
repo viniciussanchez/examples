@@ -1,0 +1,30 @@
+{
+	"hash": "d41d8cd98f00b204e9800998ecf8427e",
+	"updated": "2020-08-26T00:56:43.9633022-03:00",
+	"installedModules": {
+		"github.com/bittencourtthulio/horse-etag": {
+			"name": "horse-etag",
+			"version": "master",
+			"hash": "4a9d966d3d5b190ded2b6657bfd77cfb",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/horse": {
+			"name": "horse",
+			"version": "v2.0-alpha.1",
+			"hash": "19665e8b98f5aa9cc5b56d0629f4b975",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		},
+		"github.com/hashload/jhonson": {
+			"name": "jhonson",
+			"version": "1.0.5",
+			"hash": "34d01183ef1b6af802c7e132adedeae5",
+			"artifacts": {},
+			"failed": false,
+			"changed": false
+		}
+	}
+}
