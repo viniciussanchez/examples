@@ -14,6 +14,7 @@
 * [**Universidade Delphi — Um mundo para quem quer aprender**](https://medium.com/@viniciuss.sanchez/universidade-delphi-um-mundo-para-quem-quer-aprender-c3dc8c93d8)
 * [**Programa de Certificações Delphi**](https://medium.com/@viniciuss.sanchez/em-dias-de-quarentena-grandes-programadores-buscam-cada-vez-mais-se-aperfei%C3%A7oar-melhorando-suas-2d9230f15431)
 * [**GUID no Delphi**](https://medium.com/@viniciuss.sanchez/guid-no-delphi-cea8dda6427f)
+* [**Criando e percorrendo lista de objetos em Delphi**](https://medium.com/@viniciuss.sanchez/criando-e-percorrendo-lista-de-objetos-em-delphi-3a8dce1522a3?sk=d7baf3f936b380eda9d324a225967261)
 
 # Vídeos
 * [**JSON Attributes com Delphi**](https://youtu.be/euL6CxPKt10)
