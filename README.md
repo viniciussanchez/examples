@@ -17,6 +17,8 @@
 * [**Criando e percorrendo lista de objetos em Delphi**](https://medium.com/@viniciuss.sanchez/criando-e-percorrendo-lista-de-objetos-em-delphi-3a8dce1522a3?sk=d7baf3f936b380eda9d324a225967261)
 * [**Sobrecarga de métodos em Delphi**](https://medium.com/@viniciuss.sanchez/sobrecarga-de-m%C3%A9todos-em-delphi-3ec4e0b03e14)
 * [**Git com Delphi! Aprenda a configurar**](https://medium.com/@viniciuss.sanchez/git-com-delphi-aprenda-a-configurar-99d5b9744e62)
+* [**[Delphi] Magic numbers**](https://medium.com/@viniciuss.sanchez/delphi-magic-numbers-99d416855ca8)
+
 
 # Vídeos
 * [**JSON Attributes com Delphi**](https://youtu.be/euL6CxPKt10)
