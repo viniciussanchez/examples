@@ -42,3 +42,5 @@
 * [**Criando uma API REST com Delphi - Gerando Log**](https://youtu.be/o3jrkvSm9os)
 * [**Criando uma API REST com Delphi - Middleware Paginate**](https://youtu.be/VMMQhoysIgI)
 * [**Criando uma API REST com Delphi - ETag**](https://youtu.be/Fk9De3RfC9Q)
+* [**Mobile Days - Horse! Simplicidade em forma de API**](https://youtu.be/H7IC0fRgQ8s)
+* [**Mobile Days - Consumindo API REST no FMX com RESTRequest4Delphi**](https://youtu.be/v7GYlh00Ni8)
