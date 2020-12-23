@@ -45,3 +45,4 @@
 * [**Criando uma API REST com Delphi - ETag**](https://youtu.be/Fk9De3RfC9Q)
 * [**Mobile Days - Horse! Simplicidade em forma de API**](https://youtu.be/H7IC0fRgQ8s)
 * [**Mobile Days - Consumindo API REST no FMX com RESTRequest4Delphi**](https://youtu.be/v7GYlh00Ni8)
+* [**Intensive Delphi 2020 - Filtros avançados no Horse**](https://youtu.be/9HNqjpjc5XA)
