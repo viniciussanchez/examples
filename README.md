@@ -20,6 +20,7 @@
 * [**[Delphi] Magic numbers**](https://medium.com/@viniciuss.sanchez/delphi-magic-numbers-99d416855ca8)
 * [**Delphi — Anatomia de uma Unit**](https://medium.com/@viniciuss.sanchez/delphi-anatomia-de-uma-unit-4131e771ba27)
 * [**Implementando o reCAPTCHA v3 no Delphi**](https://viniciuss-sanchez.medium.com/implementando-o-recaptcha-v3-no-delphi-cccf3ea52471)
+* [**How to send multipart/form-data with Delphi**](https://vinicius-sanchez.medium.com/how-to-send-multipart-form-data-with-delphi-cb27d8d78c44)
 
 
 # Vídeos
