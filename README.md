@@ -23,6 +23,7 @@
 * [**How to send multipart/form-data with Delphi**](https://vinicius-sanchez.medium.com/how-to-send-multipart-form-data-with-delphi-cb27d8d78c44)
 * [**Implementando “classes amigas” no Delphi**](https://vinicius-sanchez.medium.com/implementando-classes-amigas-no-delphi-43c4709ad67c)
 * [**SOLID — Single Responsibility Principle (SRP)**](https://vinicius-sanchez.medium.com/solid-single-responsibility-principle-srp-1802e9ae590a)
+* [**SOLID — Open Closed Principle (OCP)**](https://vinicius-sanchez.medium.com/solid-open-closed-principle-ocp-cd10f4f5fb94)
 
 # Vídeos
 * [**JSON Attributes com Delphi**](https://youtu.be/euL6CxPKt10)
