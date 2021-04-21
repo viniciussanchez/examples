@@ -22,4 +22,13 @@ object Form1: TForm1
     TabOrder = 0
     OnClick = Button1Click
   end
+  object Button2: TButton
+    Left = 105
+    Top = 16
+    Width = 75
+    Height = 25
+    Caption = 'LSP 2'
+    TabOrder = 1
+    OnClick = Button2Click
+  end
 end

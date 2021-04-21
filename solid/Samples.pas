@@ -8,9 +8,12 @@ uses Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.C
 type
   TForm1 = class(TForm)
     Button1: TButton;
+    Button2: TButton;
     procedure Button1Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
   private
     procedure MostrarNome;
+    function GetMensagemOk(const AObjeto: TClassePai): string;
   end;
 
 var
@@ -23,6 +26,27 @@ implementation
 procedure TForm1.Button1Click(Sender: TObject);
 begin
   MostrarNome;
+end;
+
+procedure TForm1.Button2Click(Sender: TObject);
+var
+  LClassePai: TClassePai;
+  LClasseDerivada: TCLasseDerivada;
+begin
+  LClassePai := TClassePai.Create;
+  LClasseDerivada := TCLasseDerivada.Create;
+  try
+    ShowMessage(GetMensagemOk(LClassePai));
+    ShowMessage(GetMensagemOk(LClasseDerivada));
+  finally
+    LClasseDerivada.Free;
+    LClassePai.Free;
+  end;
+end;
+
+function TForm1.GetMensagemOk(const AObjeto: TClassePai): string;
+begin
+  Result := 'Ok';
 end;
 
 procedure TForm1.MostrarNome;
