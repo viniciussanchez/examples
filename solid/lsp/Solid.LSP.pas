@@ -9,8 +9,6 @@ type
   end;
 
   TCLasseDerivada = class(TClassePai)
-  public
-    function GetNome: string;
   end;
 
 implementation
@@ -19,14 +17,7 @@ implementation
 
 function TClassePai.GetNome: string;
 begin
-  Result := 'Nome A';
-end;
-
-{ TCLasseDerivada }
-
-function TCLasseDerivada.GetNome: string;
-begin
-  Result := 'Nome B';
+  Result := 'Vinicius';
 end;
 
 end.

@@ -107,9 +107,6 @@
         <DCCReference Include="srp\Solid.SRP.MailService.pas"/>
         <DCCReference Include="ocp\Solid.OCP.Violacao.pas"/>
         <DCCReference Include="ocp\Solid.OCP.Boleto.pas"/>
-        <DCCReference Include="lsp\Solid.LSP.Ave.Intf.pas"/>
-        <DCCReference Include="lsp\Solid.LSP.Ave.Tucano.pas"/>
-        <DCCReference Include="lsp\Solid.LSP.Ave.Pinguim.pas"/>
         <DCCReference Include="lsp\Solid.LSP.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
