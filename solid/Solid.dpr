@@ -8,7 +8,9 @@ uses
   Solid.SRP.MailService in 'srp\Solid.SRP.MailService.pas',
   Solid.OCP.Violacao in 'ocp\Solid.OCP.Violacao.pas',
   Solid.OCP.Boleto in 'ocp\Solid.OCP.Boleto.pas',
-  Solid.LSP in 'lsp\Solid.LSP.pas';
+  Solid.LSP in 'lsp\Solid.LSP.pas',
+  Solid.ISP.Violacao in 'isp\Solid.ISP.Violacao.pas',
+  Solid.ISP.Correcao in 'isp\Solid.ISP.Correcao.pas';
 
 {$R *.res}
 
