@@ -25,6 +25,7 @@
 * [**SOLID — Single Responsibility Principle (SRP)**](https://vinicius-sanchez.medium.com/solid-single-responsibility-principle-srp-1802e9ae590a)
 * [**SOLID — Open Closed Principle (OCP)**](https://vinicius-sanchez.medium.com/solid-open-closed-principle-ocp-cd10f4f5fb94)
 * [**SOLID — Liskov Substitution Principle (LSP)**](https://vinicius-sanchez.medium.com/solid-liskov-substitution-principle-lsp-d70297367d03)
+* [**SOLID — Interface Segregation Principle (ISP)**](https://vinicius-sanchez.medium.com/solid-interface-segregation-principle-isp-3737f42e1c42)
 
 # Vídeos
 * [**JSON Attributes com Delphi**](https://youtu.be/euL6CxPKt10)
