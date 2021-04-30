@@ -110,6 +110,9 @@
         <DCCReference Include="lsp\Solid.LSP.pas"/>
         <DCCReference Include="isp\Solid.ISP.Violacao.pas"/>
         <DCCReference Include="isp\Solid.ISP.Correcao.pas"/>
+        <DCCReference Include="dip\Solid.DIP.Violacao.pas"/>
+        <DCCReference Include="dip\Solid.DIP.Refatoracao.pas"/>
+        <DCCReference Include="dip\Solid.DIP.Correcao.pas"/>
         <BuildConfiguration Include="Release">
             <Key>Cfg_2</Key>
             <CfgParent>Base</CfgParent>

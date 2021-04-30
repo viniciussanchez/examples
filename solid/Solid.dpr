@@ -10,7 +10,10 @@ uses
   Solid.OCP.Boleto in 'ocp\Solid.OCP.Boleto.pas',
   Solid.LSP in 'lsp\Solid.LSP.pas',
   Solid.ISP.Violacao in 'isp\Solid.ISP.Violacao.pas',
-  Solid.ISP.Correcao in 'isp\Solid.ISP.Correcao.pas';
+  Solid.ISP.Correcao in 'isp\Solid.ISP.Correcao.pas',
+  Solid.DIP.Violacao in 'dip\Solid.DIP.Violacao.pas',
+  Solid.DIP.Refatoracao in 'dip\Solid.DIP.Refatoracao.pas',
+  Solid.DIP.Correcao in 'dip\Solid.DIP.Correcao.pas';
 
 {$R *.res}
 
