@@ -26,6 +26,7 @@
 * [**SOLID — Open Closed Principle (OCP)**](https://vinicius-sanchez.medium.com/solid-open-closed-principle-ocp-cd10f4f5fb94)
 * [**SOLID — Liskov Substitution Principle (LSP)**](https://vinicius-sanchez.medium.com/solid-liskov-substitution-principle-lsp-d70297367d03)
 * [**SOLID — Interface Segregation Principle (ISP)**](https://vinicius-sanchez.medium.com/solid-interface-segregation-principle-isp-3737f42e1c42)
+* [**SOLID — Dependency Inversion Principle (DIP)**](https://vinicius-sanchez.medium.com/solid-dependency-inversion-principle-dip-23f452d6048a)
 
 # Vídeos
 * [**JSON Attributes com Delphi**](https://youtu.be/euL6CxPKt10)
