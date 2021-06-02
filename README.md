@@ -27,6 +27,7 @@
 * [**SOLID — Liskov Substitution Principle (LSP)**](https://vinicius-sanchez.medium.com/solid-liskov-substitution-principle-lsp-d70297367d03)
 * [**SOLID — Interface Segregation Principle (ISP)**](https://vinicius-sanchez.medium.com/solid-interface-segregation-principle-isp-3737f42e1c42)
 * [**SOLID — Dependency Inversion Principle (DIP)**](https://vinicius-sanchez.medium.com/solid-dependency-inversion-principle-dip-23f452d6048a)
+* [**Verificando a toxidade do seu código escrito em Delphi**](https://vinicius-sanchez.medium.com/verificando-a-toxidade-do-seu-c%C3%B3digo-escrito-em-delphi-94f22565f78f)
 
 # Vídeos
 * [**JSON Attributes com Delphi**](https://youtu.be/euL6CxPKt10)
