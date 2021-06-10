@@ -29,6 +29,7 @@
 * [**SOLID — Dependency Inversion Principle (DIP)**](https://vinicius-sanchez.medium.com/solid-dependency-inversion-principle-dip-23f452d6048a)
 * [**Verificando a toxidade do seu código escrito em Delphi**](https://vinicius-sanchez.medium.com/verificando-a-toxidade-do-seu-c%C3%B3digo-escrito-em-delphi-94f22565f78f)
 * [**Evitando SQL Injection com Delphi**](https://vinicius-sanchez.medium.com/evitando-sql-injection-com-delphi-75ac7685d3fd)
+* [**Delphi — Class Operators**](https://vinicius-sanchez.medium.com/delphi-class-operators-ff21fa9ab6df)
 
 # Vídeos
 * [**JSON Attributes com Delphi**](https://youtu.be/euL6CxPKt10)
