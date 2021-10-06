@@ -59,6 +59,8 @@
 * [**Intensive Delphi 2020 - Criando meu primeiro token JWT com Horse**](https://youtu.be/v40_UgSwRwo)
 * [**Intensive Delphi 2021 - Documentando sua API Horse com Swagger**](https://youtu.be/e_ZhLQkcshg)
 * [**Intensive Delphi 2021 - SOLID para leigos**](https://youtu.be/lbNExpA1eeM)
+* [**Configurando PAServer no Linux com Docker**](https://youtu.be/NlSXDARMrfM)
+* [**API Node.js x API Delphi**](https://youtu.be/osyoJNqO1hA)
 
 # Cursos
 * [**REST: do Básico ao Avançado com Delphi e Horse**](https://youtu.be/rnCaagIPUdQ)
