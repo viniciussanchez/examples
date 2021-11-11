@@ -61,6 +61,11 @@
 * [**Intensive Delphi 2021 - SOLID para leigos**](https://youtu.be/lbNExpA1eeM)
 * [**Configurando PAServer no Linux com Docker**](https://youtu.be/NlSXDARMrfM)
 * [**API Node.js x API Delphi**](https://youtu.be/osyoJNqO1hA)
+* [**#1 Boas práticas na construção de uma API REST - Recursos**](https://youtu.be/2ggUfN0szVA)
+* [**#2 Boas práticas na construção de uma API REST - Verbos HTTP**](https://youtu.be/XPzwOxMX82A)
+* [**#3 Boas práticas na construção de uma API REST - Status Codes**](https://youtu.be/cLQMOz4Wjjk)
+* [**#4 Boas práticas na construção de uma API REST - Query Params**](https://youtu.be/haI4-DazVXg)
+* [**#5 Boas práticas na construção de uma API REST - Path variables**](https://youtu.be/Cm78uY34OJI)
 
 # Cursos
 * [**REST: do Básico ao Avançado com Delphi e Horse**](https://youtu.be/rnCaagIPUdQ)
