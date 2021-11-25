@@ -66,6 +66,7 @@
 * [**#3 Boas práticas na construção de uma API REST - Status Codes**](https://youtu.be/cLQMOz4Wjjk)
 * [**#4 Boas práticas na construção de uma API REST - Query Params**](https://youtu.be/haI4-DazVXg)
 * [**#5 Boas práticas na construção de uma API REST - Path variables**](https://youtu.be/Cm78uY34OJI)
+* [**#1 Criando uma API REST no Lazarus - Introdução**](https://youtu.be/SxQKNP1FeOA)
 
 # Cursos
 * [**REST: do Básico ao Avançado com Delphi e Horse**](https://youtu.be/rnCaagIPUdQ)
