@@ -69,6 +69,7 @@
 * [**Você sofre instalando componentes no Lazarus? Conheça o Boss!**](https://youtu.be/pEcLp5a30UU)
 * [**#1 Criando uma API REST no Lazarus - Introdução**](https://youtu.be/SxQKNP1FeOA)
 * [**#2 Criando uma API REST no Lazarus - Trabalhando com JSON**](https://youtu.be/Ak_w0hJQ0jo)
+* [**#3 Criando uma API REST no Lazarus - Basic Authentication**](https://youtu.be/BjzyVJM4gK8)
 
 # Cursos
 * [**REST: do Básico ao Avançado com Delphi e Horse**](https://youtu.be/rnCaagIPUdQ)
