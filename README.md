@@ -73,3 +73,4 @@
 
 # Cursos
 * [**REST: do Básico ao Avançado com Delphi e Horse**](https://youtu.be/rnCaagIPUdQ)
+* [**Fullstack Delphi / Lazarus e Angular**](https://youtu.be/46Dg9v4jtNc)
