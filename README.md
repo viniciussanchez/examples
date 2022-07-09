@@ -31,6 +31,7 @@
 * [**Verificando a toxidade do seu código escrito em Delphi**](https://vinicius-sanchez.medium.com/verificando-a-toxidade-do-seu-c%C3%B3digo-escrito-em-delphi-94f22565f78f)
 * [**Evitando SQL Injection com Delphi**](https://vinicius-sanchez.medium.com/evitando-sql-injection-com-delphi-75ac7685d3fd)
 * [**Delphi — Class Operators**](https://vinicius-sanchez.medium.com/delphi-class-operators-ff21fa9ab6df)
+* [**Uma visão de acoplamento no Delphi**](https://vinicius-sanchez.medium.com/uma-vis%C3%A3o-de-acoplamento-no-delphi-2c8bb689cd96)
 
 # Vídeos
 * [**JSON Attributes com Delphi**](https://youtu.be/euL6CxPKt10)
