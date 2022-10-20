@@ -32,6 +32,7 @@
 * [**Evitando SQL Injection com Delphi**](https://vinicius-sanchez.medium.com/evitando-sql-injection-com-delphi-75ac7685d3fd)
 * [**Delphi — Class Operators**](https://vinicius-sanchez.medium.com/delphi-class-operators-ff21fa9ab6df)
 * [**Uma visão de acoplamento no Delphi**](https://vinicius-sanchez.medium.com/uma-vis%C3%A3o-de-acoplamento-no-delphi-2c8bb689cd96)
+* [**Var, Out, Const… você sabe a diferença sobre a passagem de parâmetros?**](https://vinicius-sanchez.medium.com/var-out-const-voc%C3%AA-sabe-a-diferen%C3%A7a-sobre-a-passagem-de-par%C3%A2metros-392075a336af)
 
 # Vídeos
 * [**JSON Attributes com Delphi**](https://youtu.be/euL6CxPKt10)
