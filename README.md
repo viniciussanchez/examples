@@ -35,6 +35,7 @@
 * [**Var, Out, Const… você sabe a diferença sobre a passagem de parâmetros?**](https://vinicius-sanchez.medium.com/var-out-const-voc%C3%AA-sabe-a-diferen%C3%A7a-sobre-a-passagem-de-par%C3%A2metros-392075a336af)
 * [**RAD Studio 12: Yukon (Beta)**](https://vinicius-sanchez.medium.com/rad-studio-12-yukon-beta-e578eb5b7f64)
 * [**Delphi | Error Insight**](https://medium.com/@vinicius-sanchez/delphi-error-insight-b35612fc0d6b)
+* [**My first REST API with Delphi**](https://vinicius-sanchez.medium.com/my-first-rest-api-with-delphi-8088d5c799d1)
 
 # Vídeos
 * [**JSON Attributes com Delphi**](https://youtu.be/euL6CxPKt10)
