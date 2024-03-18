@@ -77,5 +77,6 @@
 * [**#3 Criando uma API REST no Lazarus - Basic Authentication**](https://youtu.be/BjzyVJM4gK8)
 
 # Cursos
-* [**REST: do Básico ao Avançado com Delphi e Horse**](https://youtu.be/rnCaagIPUdQ)
-* [**Fullstack Delphi / Lazarus e Angular**](https://youtu.be/46Dg9v4jtNc)
+* [**REST: do Básico ao Avançado com Delphi e Horse**](https://campanhas.adrianosantostreina.com.br/rest-basico-avancado-delphi-horse-cp/)
+* [**Fullstack Delphi / Lazarus e Angular**](https://campanhas.adrianosantostreina.com.br/fullstack-delphi-lazarus-angular/)
+* [**Introdução ao consumo de API REST com Delphi**](https://hotmart.com/pt-br/marketplace/produtos/introducao-ao-consumo-de-apis-rest-com-delphi/U88695509H)
