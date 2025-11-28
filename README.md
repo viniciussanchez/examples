@@ -80,3 +80,4 @@
 * [**REST: do Básico ao Avançado com Delphi e Horse**](https://campanhas.adrianosantostreina.com.br/rest-basico-avancado-delphi-horse-cp/)
 * [**Fullstack Delphi / Lazarus e Angular**](https://campanhas.adrianosantostreina.com.br/fullstack-delphi-lazarus-angular/)
 * [**Introdução ao consumo de API REST com Delphi**](https://hotmart.com/pt-br/marketplace/produtos/introducao-ao-consumo-de-apis-rest-com-delphi/U88695509H)
+* [**Back-end Delphi com Horse**](https://hotmart.com/pt-br/marketplace/produtos/back-end-delphi-horse/B98977219E)
